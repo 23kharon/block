@@ -1,2 +1,1 @@
-youtube.com/shorts
-facebook.com/reel/
+# Sites to Block
